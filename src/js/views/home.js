@@ -31,7 +31,7 @@ const Home = () => {
           you and your family enduring peace of mind.
         </p>
         <p>
-          Serving Michigan and New Hampshire, I’m ready to sit down with you,
+          Serving Michigan, New Hampshire, Maine, Texas, and Massachusetts, I’m ready to sit down with you,
           understand your unique situation, and explore the options. This
           conversation aims for clarity, not pressure. It's a free,
           no-obligation opportunity to learn how to safeguard your family’s
